@@ -1,0 +1,24 @@
+.loading-indicator {
+    display: block;
+    width: 70px;
+    position: fixed;
+    left: 0;
+    right: 0;
+    margin: 0 auto;
+    top: 40%;
+    z-index: 100;
+    background-color: #FFF;
+}
+
+.loading-indicator img {
+    width: 70px;
+    background-color: #FFF;
+}
+
+.ui-view-placeholder {
+    margin-top: 60px;
+}
+
+img.spinner {
+  src="http://cdn.rawgit.com/jhu-ep-coursera/fullstack-course5/master/examples/Lecture59/images/spinner.svg"
+}
